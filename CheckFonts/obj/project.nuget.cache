@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "4VOetsOeOBRPa5CPEo3XBtR5SgRrGpjJ0V2zvHSxrvM47iIBxFCUTsIJsJ6Au3s6+h4ui4FWGRr6seoJbp343g==",
+  "success": true,
+  "projectFilePath": "D:\\projects\\institute\\Алексеев\\CheckFonts\\CheckFonts\\CheckFonts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ti.salmina\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\ti.salmina\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "C:\\Users\\ti.salmina\\.nuget\\packages\\spire.doc\\11.10.3\\spire.doc.11.10.3.nupkg.sha512",
+    "C:\\Users\\ti.salmina\\.nuget\\packages\\system.drawing.common\\4.5.0\\system.drawing.common.4.5.0.nupkg.sha512",
+    "C:\\Users\\ti.salmina\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "C:\\Users\\ti.salmina\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\ti.salmina\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\ti.salmina\\.nuget\\packages\\system.security.cryptography.pkcs\\4.5.0\\system.security.cryptography.pkcs.4.5.0.nupkg.sha512",
+    "C:\\Users\\ti.salmina\\.nuget\\packages\\system.security.cryptography.xml\\4.5.0\\system.security.cryptography.xml.4.5.0.nupkg.sha512",
+    "C:\\Users\\ti.salmina\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\ti.salmina\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
+    "C:\\Users\\ti.salmina\\.nuget\\packages\\system.text.encoding.codepages\\4.5.0\\system.text.encoding.codepages.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
